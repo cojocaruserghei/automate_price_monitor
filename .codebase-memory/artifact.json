@@ -1,0 +1,11 @@
+{
+    "schema_version": 2,
+    "commit": "",
+    "indexed_at": "2026-11-10T13:33:40Z",
+    "project": "PriceMonitor",
+    "nodes": 225,
+    "edges": 827,
+    "original_size": 2162688,
+    "compressed_size": 205632,
+    "compression_level": 3
+}

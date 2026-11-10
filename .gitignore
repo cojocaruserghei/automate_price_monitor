@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+.venv/
+venv/
+build/
+dist/
+docs/
+
+# Local configuration, secrets, and runtime state
+config/products.json
+config/notifications.json
+data/
+.env
+.env.*
+!.env.example
+
+# PyCharm / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# AI assistants and generated context
+.ai/
+.claude/
+.codex/
+.cursor/
+.windsurf/
+.continue/
+.copilot/
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+*.prompt
+*.instructions.md

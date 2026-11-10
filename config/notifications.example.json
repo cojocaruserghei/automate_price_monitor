@@ -1,0 +1,16 @@
+{
+  "channels": ["email"],
+  "email": {
+    "smtp_host": "smtp.example.com",
+    "smtp_port": 587,
+    "username": "sender@example.com",
+    "password_env": "PRICE_MONITOR_SMTP_PASSWORD",
+    "sender": "sender@example.com",
+    "recipients": ["recipient@example.com"],
+    "use_tls": true
+  },
+  "telegram": {
+    "bot_token_env": "PRICE_MONITOR_TELEGRAM_BOT_TOKEN",
+    "chat_id_env": "PRICE_MONITOR_TELEGRAM_CHAT_ID"
+  }
+}

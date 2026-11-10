@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "name": "Example Temu product",
+      "url": "https://www.temu.com/example-product.html",
+      "threshold": 25.99,
+      "currency": "USD"
+    }
+  ]
+}
